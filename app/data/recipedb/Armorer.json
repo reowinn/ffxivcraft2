@@ -11868,19 +11868,19 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 3548,
+    "difficulty": 3560,
     "durability": 70,
     "id": "97a8045a920",
-    "level": 350,
-    "maxQuality": 25881,
+    "level": 380,
+    "maxQuality": 35881,
     "name": {
       "cn": "夜钢盾",
       "de": "Nachtstahl-Schild",
-      "en": "Nightsteel Shield",
+      "en": "High Durability Test 1",
       "fr": "Bouclier en noctacier",
       "ja": "ナイトスチールシールド",
       "ko": "Nightsteel Shield"
     },
-    "stars": 3
+    "stars": 4
   }
 ]
