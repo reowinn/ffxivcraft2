@@ -11865,37 +11865,37 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 3548,
+    "difficulty": 3560,
     "durability": 70,
-    "id": "8e90bbfd09a",
+    "id": "X0",
     "level": 350,
-    "maxQuality": 25881,
+    "maxQuality": 35881,
     "name": {
       "cn": "清银魔导书",
       "de": "Silbergunst-Grimoire",
-      "en": "Silvergrace Grimoire",
+      "en": "High Durability Test",
       "fr": "Grimoire en graçargent",
       "ja": "グレースグリモア",
       "ko": "Silvergrace Grimoire"
     },
-    "stars": 3
+    "stars": 4
   },
   {
     "baseLevel": 70,
     "difficulty": 2760,
-    "durability": 70,
-    "id": "fc9344579d5",
-    "level": 350,
-    "maxQuality": 24033,
+    "durability": 35,
+    "id": "X1",
+    "level": 380,
+    "maxQuality": 28033,
     "name": {
       "cn": "古木树液",
       "de": "Alter Baumsaft",
-      "en": "Veteran Tree Sap",
+      "en": "Low Durability Test",
       "fr": "Sève de vieil arbre",
       "ja": "老木樹液",
       "ko": "Veteran Tree Sap"
     },
-    "stars": 3
+    "stars": 4
   },
   {
     "baseLevel": 70,
